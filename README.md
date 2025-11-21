@@ -88,3 +88,8 @@ Potential enhancements include:
 ```r
 install.packages(c("quantmod", "forecast", "tseries"))
 
+---
+
+## Author
+Alessandro Bifulco
+
