@@ -88,5 +88,3 @@ Potential enhancements include:
 ```r
 install.packages(c("quantmod", "forecast", "tseries"))
 
-install.packages(c("quantmod", "forecast", "tseries"))
-
